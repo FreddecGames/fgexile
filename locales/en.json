@@ -1,0 +1,60 @@
+{
+    "site_name": "Site name",
+    
+    "welcome_pageTitle": "Welcome",
+    "welcome_title": "Welcome",
+    "welcome_text": "This page is public and available for everyone. To access restricted content, you have to register a new account or to login with an existing one.",
+    
+    "login_pageTitle": "Login",
+    "login_title": "Login",
+    "login_text": "Enter your credentials to access restricted content.",
+    "login_email": "Email address",
+    "login_password": "Password",
+    "login_resetPassword": "Forgot password?",
+    "login_back": "Back",
+    "login_button": "Submit",
+    "login_register": "Don't have an account?",
+    
+    "passwordReset_pageTitle": "Password reset",
+    "passwordReset_title": "Password reset",
+    "passwordReset_text": "Forgotten your password? Enter your email address below, and we'll email instructions for setting a new one.",
+    "passwordReset_success": "We've emailed you instructions for setting your password, if an account exists with the email your entered. You should receive them shortly. If you don't receive an email, please make sure you've entered the address you registered with, and check your spam folder.",
+    "passwordReset_email": "Email address",
+    "passwordReset_back": "Back",
+    "passwordReset_button": "Submit",
+
+    "passwordResetConfirm_pageTitle": "Password reset",
+    "passwordResetConfirm_title": "Password reset",
+    "passwordResetConfirm_text": "Please enter your new password twice so we can verify you typed it in correctly.",
+    "passwordResetConfirm_success": "Your new password has been set. You may go ahead and log in now.",
+    "passwordResetConfirm_password1": "New password",
+    "passwordResetConfirm_password2": "Confirm new password",
+
+    "register_pageTitle": "Register",
+    "register_title": "Register",
+    "register_text": "Fill out the form carefully to create an account.",
+    "register_success": "We have sent an e-mail to you for verification. Follow the link provided to finalize the registration process. If you do not see the verification e-mail in your main inbox, check your spam folder. Please contact us if you do not receive the verification e-mail within a few minutes.",
+    "register_email": "Email address",
+    "register_password1": "Password",
+    "register_password2": "Confirm password",
+    "register_help1": "Password must contain at least 8 characters.",
+    "register_help2": "Password can't be a commonly used password.",
+    "register_help3": "Password can't be entirely numeric.",
+    "register_help4": "Password can't be too similar to your email address.",
+    "register_back": "Back",
+    "register_button": "Submit",
+    "register_login": "Already got an account?",
+
+    "registerConfirm_pageTitle": "Register",
+    "registerConfirm_title": "Register",
+    "registerConfirm_success": "You have confirmed your email address. You may go ahead and log in now.",
+    "registerConfirm_error": "This e-mail confirmation link expired or is invalid. Please issue a new e-mail confirmation request.",
+    
+    "registerResend_success": "A new confirmation e-mail has been sent.",
+    "registerResend_email": "Email address",
+    "registerResend_button": "Re-send",
+    
+    "logout_button": "Logout",
+    
+    "label_connectedAs": "Connected with",
+}

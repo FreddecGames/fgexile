@@ -1,0 +1,70 @@
+:root {
+    
+    --bs-body-font-size: 0.85rem;
+    --bs-body-font-weight: 400;
+    --bs-body-line-height: 1.5;
+    
+    --font-size-small: .875em;
+}
+
+a { text-decoration: none; }
+
+.small, small { font-size: var(--font-size-small); }
+
+.form-label {
+    
+    font-size: var(--font-size-small);
+    margin-bottom: 0rem;
+}
+
+.form-text {
+    margin-top: 0;
+    font-size: var(--font-size-small);
+}
+
+.btn {
+    
+    --bs-btn-font-size: var(--bs-body-font-size);
+    --bs-btn-font-weight: var(--bs-body-font-weight);
+    --bs-btn-line-height: var(--bs-body-line-height);
+}
+
+.form-control {
+    
+    padding: 0.375rem 0.75rem;
+    font-size: var(--bs-body-font-size);
+}
+
+.alert {
+    
+    --bs-alert-padding-x: 0.75rem;
+    --bs-alert-padding-y: 0.375rem;
+}
+
+@keyframes rotation {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+@-o-keyframes rotation {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+@-moz-keyframes rotation {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+@-webkit-keyframes rotation {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+.rotate {
+   -webkit-animation: rotation 2s infinite linear;
+   -moz-animation: rotation 2s infinite linear;
+   -ms-animation: rotation 2s infinite linear;
+   -o-animation: rotation 2s infinite linear;
+    animation: rotation 2s infinite linear;
+}

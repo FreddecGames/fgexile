@@ -1,0 +1,1 @@
+import{U as e,f as o}from"./DLMJGIfJ.js";const a=e({id:"app-store",state:()=>({authenticated:!1}),getters:{},actions:{logout(){const t=o("token");t.value=null,this.authenticated=!1}}});export{a as u};
